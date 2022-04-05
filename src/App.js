@@ -5,7 +5,7 @@ import About from './screens/About';
 import Projects from './screens/Projects';
 import Questions from './screens/Questions';
 import ReactDoc from './screens/ReactDoc';
-import NavBarElements from './components/NavBarElements';
+import NavBarElements from './components/NavBar/NavBarElements';
 
 
 function App() {
